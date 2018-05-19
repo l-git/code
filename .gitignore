@@ -1,0 +1,10 @@
+*.class
+node_modules
+node_modules/
+*.exe
+*.obj
+*.jar
+*.ilk
+*.pdb
+
+
